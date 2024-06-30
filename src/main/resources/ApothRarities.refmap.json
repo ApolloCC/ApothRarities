@@ -1,0 +1,7 @@
+{
+  "mappings" : {
+      "koyukivirus/apothrarities/mixin/AdventureModuleMixin": {
+        "tiles": "Lshadows/apotheosis/adventure/AdventureModule;tiles"
+        }
+    }
+}
